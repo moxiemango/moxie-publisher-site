@@ -4,7 +4,7 @@ Static pages for the **Moxie Mango Publisher**, an internal tool of the Etsy sho
 [Moxie Mango Design](https://moxiemangodesign.etsy.com) that publishes the shop's own
 listings to its own Pinterest boards and Facebook Page.
 
-Served by GitHub Pages: https://moxiemango.github.io/moxie-publisher-site/
+Served by GitHub Pages at https://publisher.moxiemango.com/ (custom domain; DNS on Cloudflare: CNAME `publisher` → `moxiemango.github.io`, DNS only).
 
 | File | Purpose |
 | --- | --- |
