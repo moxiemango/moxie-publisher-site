@@ -9,7 +9,8 @@ Served by GitHub Pages: https://moxiemango.github.io/moxie-publisher-site/
 | File | Purpose |
 | --- | --- |
 | `index.html` | App website (used in the Pinterest and Meta app settings) |
-| `privacy.html` | Privacy policy (required by Pinterest and Meta) |
+| `privacy.html` | Privacy policy (used by the Meta app) |
+| `moxiemangodesign-privacy.html` | Same privacy policy; URL contains the company name, as Pinterest requires |
 | `data-deletion.html` | Data deletion instructions (required by Meta) |
 | `callback.html` | Pinterest OAuth redirect – displays the authorization code to copy |
 
